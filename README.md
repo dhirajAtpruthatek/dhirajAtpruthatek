@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hy,<br>I am Suthar Dhiraj.<br>A Full stack developer.<br>
+# Hy,
+# I am Suthar Dhiraj.
+# A Full stack developer.
 
 
 ## 🌐 Socials:
