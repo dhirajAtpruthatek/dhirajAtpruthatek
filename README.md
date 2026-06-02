@@ -1,6 +1,6 @@
-# Hy,
+## Hy,
 # I am Suthar Dhiraj.
-# A Full stack developer.
+## A Full stack developer.
 
 
 ## 🌐 Socials:
